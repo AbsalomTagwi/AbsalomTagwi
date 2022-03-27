@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbsalomTagwi
 - 👀 I’m interested in Web, Mobile and Cloud Development.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development and AWS Cloud.
 - 💞️ I’m looking to collaborate on creating fun applications.
 - 📫 How to reach me absalomtagwi@gmail.com
 
