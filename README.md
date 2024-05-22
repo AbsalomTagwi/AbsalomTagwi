@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbsalomTagwi
-- 👀 I’m interested in Web, Mobile and Cloud Development as well as Cyber Security.
-- 🌱 I’m currently enrolled in a BSc Computer Science program and I am also working on a web and mobile app for an Online Store.
-- 💞️ I’m looking to collaborate on creating fun applications.
+- 👀 I’m interested in Networking as well as Cyber Security.
+- 🌱 I’m A+ certified with CompTIA and I'm currently pursuing a CompTIA Network+ IT Certification.
+- 💞️ I intend on getting a CCNA (Cisco Certified Network Associate) IT certification as well.
 - 📫 How to reach me absalomtagwi@gmail.com
 
 <!---
