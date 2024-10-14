@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AbsalomTagwi
-- 👀 I’m interested in Networking as well as Cyber Security.
-- 🌱 I’m A+ certified with CompTIA and I'm currently pursuing a CompTIA Network+ IT Certification.
-- 💞️ I intend on getting a CCNA (Cisco Certified Network Associate) IT certification as well.
+- 👋 Hi, @AbsalomTagwi here
+- 👀 I am interested in Networking as well as Cyber Security.
+- 🌱 I am CompTIA A+ Certified and I'm also CompTIA Network+ Certified.
+- 💞️ I intend on getting a CCNA (Cisco Certified Network Associate) IT certification as well as a CompTIA Security+ certification to advance my career interests.
 - 📫 How to reach me absalomtagwi@gmail.com
 
 <!---
